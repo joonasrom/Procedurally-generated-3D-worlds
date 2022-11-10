@@ -3,4 +3,5 @@ This game is being developed as a Thesis project in [Haaga-Helia University of A
 
 ## Creators
 [Lauri](https://github.com/l1l1l1l1l)
+
 [Joonas](https://github.com/joonasrom)
