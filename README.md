@@ -1,4 +1,4 @@
-# Procedurally generated 3D worlds
+# Procedurally generated 3D worlds in Unity
 This game is being developed as a Thesis project in [Haaga-Helia University of Applied Sciences](https://www.haaga-helia.fi/en).
 
 ## Creators
